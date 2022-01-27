@@ -1,0 +1,50 @@
+.pokemon_container {
+  padding-top: 2rem;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.pokemon_container > h1 {
+  font-size: 2rem;
+  text-transform: capitalize
+}
+
+.poke_number_id > h3 {
+  font-size: 1.4rem;
+}
+
+.poke_number_id > p {
+  margin: 5px;
+  padding: 2px;
+  background-color: #ecea49;
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+
+.types_container h3 {
+  font-size: 1.4rem;
+}
+
+.types_container > span {
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+
+.poke_weight h4 {
+  font-size: 1.2rem;
+}
+
+.poke_weight p {
+  font-weight: bold;
+}
+
+.poke_height h4 {
+  font-size: 1.2rem;
+}
+
+.poke_height p {
+  font-weight: bold;
+}
