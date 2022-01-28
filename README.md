@@ -9,6 +9,6 @@
  - React
  - Next.js
  - CSS Module
- - PokeAAPI
+ - PokeAPI
 
 ##### 👨‍💻 Desenvolvedor - Danilo Oliveira 📌
